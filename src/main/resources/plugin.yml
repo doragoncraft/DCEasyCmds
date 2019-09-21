@@ -1,0 +1,58 @@
+name: DCEasyCmds
+version: ${project.version}
+main: me.doragoncraft.dceasycmds.main
+api-version: 1.13
+authors: [doragoncraft]
+website: www.doragoncraftnetwork.com
+commands:
+  skype:
+    description: Skype Info
+    usage: /<command>
+  fb:
+    description: Facebook Site
+    usage: /<command>
+  member:
+    description: sign up
+    usage: /<command>
+  forum:
+    description: forum link
+    usage: /<command>
+  facebook:
+    description: Facebook Site
+    usage: /<command>
+  twitch:
+    description: twitch channel
+    usage: /<command>
+  stream:
+    description: twitch channel
+    usage: /<command>
+  vote:
+         description: Vote Sites
+         usage: /<command>
+  donate:
+    description: donate Store
+    usage: /<command>
+  ts:
+    description: Teamspeak 3 IP
+    usage: /<command>
+  teamspeak:
+    description: Teamspeak 3 IP
+    usage: /<command>
+  dec:
+    description: help menu
+    usage: /<command>
+  website:
+    description: Website homepage
+    usage: /<command>
+  youtube:
+    description: youtube channel
+    usage: /<command>
+  twitter:
+    description: twitter page
+    usage: /<command>
+  discord:
+    description: discord server
+    usage: /<command>
+  decreload:
+    description: reloads config
+    default: op

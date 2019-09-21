@@ -1,0 +1,40 @@
+###################################
+#          DcEasyCmds             #
+#          Config File            #
+#   www.doragoncraftnetwork.com   #
+#         By Doragoncraft         #
+###################################
+
+messages:
+  fb: https://www.facebook.com/Doragoncraft/
+  forum: http://doragoncraftnetwork.com/forum
+  ts: https://discord.gg/VMx9JmY we use discord
+  website: http://doragoncraftnetwork.com/
+  youtube: https://www.youtube.com/c/doragoncraft
+  twitch: http://www.twitch.tv/doragoncraft
+  donate: http://store.doragoncraftnetwork.com/
+  twitter: https://twitter.com/doragoncraft
+  member: http://doragoncraftnetwork.com/members
+  discord: https://discord.gg/VMx9JmY
+  vote: http://doragoncraftnetwork.com/vote
+Message:
+  skype:
+    '1': '&6<======&b&l SKYPE &6======>'
+    '2': '&4Doragoncraft &1~ &bdoragoncraftowner'
+    '3': '&1'
+    '4': '&1'
+    '5': '&1'
+    '6': '&1'
+    '7': '&1'
+    '8': '&6<==================>'
+Message1:
+  twitch:
+    '1': '&6<======&5&l Twitch &6======>'
+    '2': '&5http://www.twitch.tv/doragoncraft'
+    '3': '&5'
+    '4': '&5'
+    '5': '&5'
+    '6': '&5'
+    '7': '&5'
+    '8': '&6<==================>'
+
